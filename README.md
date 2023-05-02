@@ -1,4 +1,4 @@
-# Project Name
+#Odin Recipes
 
 Odin Recipe Project: A site that shows you a few recipes that show my learned skills in regards to the HTML language.
 
